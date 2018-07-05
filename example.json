@@ -1,0 +1,98 @@
+[{
+    "server": {
+        "name": "gnehsDSM",
+        "color": "#666",
+        "uploadSpeed": "7.5MV/s",
+        "downloadSpeed": "3.5MB/s",
+        "online": true
+    },
+    "list": [{
+        "id": "coin1069",
+        "title": "[Coin][BIG5_MP4][4K]",
+        "dir": "/data",
+        "size": "8.23GB",
+        "ETA": 299,
+        "type": "bt",
+        "status": "downloading",
+        "uploadSpeed": "125KB/s",
+        "downloadSpeed": "87.6KB/s",
+        "uri": "magnet:?xt=urn:btih:COINFA106969",
+        "created_time": 1530792139,
+        "started_time": 1530792147,
+        "files": [{
+                "name": "幣幣打呼.mp4",
+                "size": "2GB",
+                "progress": 29.6,
+                "priority": "low"
+            },
+            {
+                "name": "幣幣吃飯.mp4",
+                "size": "2GB",
+                "progress": 39.8,
+                "priority": "medium"
+            }, {
+                "name": "幣幣洗澡.mp4",
+                "size": "4.23GB",
+                "progress": 99.3,
+                "priority": "high"
+            }
+        ]
+    }]
+}, {
+    "server": {
+        "name": "gnehsAria2",
+        "color": "#999",
+        "uploadSpeed": "2.2MB/s",
+        "downloadSpeed": "1.03MB/s",
+        "online": true
+    },
+    "list": [{
+        "id": "anime001",
+        "title": "[180627]ペルソナ5 the Animation OPENING & ENDING Theme Disc「BREAK IN TO BREAK OUT」「INFINITY」[320K+BK]",
+        "dir": "/data",
+        "size": "37.84MB",
+        "ETA": 339,
+        "type": "bt",
+        "status": "downloading",
+        "uploadSpeed": "0KB/s",
+        "downloadSpeed": "87.6KB/s",
+        "uri": "magnet:?xt=urn:btih:COSINFB106969",
+        "created_time": 1530792139,
+        "started_time": 1530792147,
+        "files": [{
+            "name": "[180627]ペルソナ5 the Animation OPENING & ENDING Theme Disc「BREAK IN TO BREAK OUT」「INFINITY」[320K+BK].rar",
+            "size": "37.8MB",
+            "progress": 92.3
+        }]
+    }, {
+        "id": "anime0051",
+        "title": "[180704] Tokyo 7th シスターズ 3rdアルバム「THE STRAIGHT LIGHT」[通常盤] [320K]",
+        "dir": "/data",
+        "size": "195.3MB",
+        "ETA": 339,
+        "type": "bt",
+        "status": "paused",
+        "uploadSpeed": "0KB/s",
+        "downloadSpeed": "0KB/s",
+        "uri": "magnet:?xt=urn:btih:COSINFB1056969",
+        "created_time": 1530792139,
+        "started_time": 1530792147,
+        "files": [{
+            "name": "[180704] Tokyo 7th シスターズ 3rdアルバム「THE STRAIGHT LIGHT」[通常盤] [320K]/Cover_01.jpg",
+            "size": "264.6KB",
+            "progress": 32.6
+        }, {
+            "name": "[180704] Tokyo 7th シスターズ 3rdアルバム「THE STRAIGHT LIGHT」[通常盤] [320K]/Cover_01.jpg",
+            "size": "217.6KB",
+            "progress": 92.3
+        }, {
+            "name": "[180704] Tokyo 7th シスターズ 3rdアルバム「THE STRAIGHT LIGHT」[通常盤] [320K]/Cover_01.jpg",
+            "size": "158.9KB",
+            "progress": 92.3
+        }, {
+            "name": "[180704] Tokyo 7th シスターズ 3rdアルバム「THE STRAIGHT LIGHT」[通常盤] [320K]/Disc 1/01. The Straight Light.mp3",
+            "size": "194.2MB",
+            "progress": 92.3
+        }]
+    }]
+}]
