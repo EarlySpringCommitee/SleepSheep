@@ -2,7 +2,7 @@
     "server": {
         "name": "gnehsDSM",
         "color": "#666",
-        "uploadSpeed": "7.5MV/s",
+        "uploadSpeed": "7.5MB/s",
         "downloadSpeed": "3.5MB/s",
         "online": true
     },
