@@ -1,5 +1,8 @@
+.ssbg {
+  background: #000 url(https://i.imgur.com/mNdGZ17.jpg); }
+
 #login {
-  background: #481c8f;
+  background: rgba(0, 0, 0, 0.4);
   width: 100vw;
   height: 100vh;
   display: table-cell;
@@ -16,6 +19,10 @@
       #login > .box > .ts.input > input {
         color: #FFF; }
     #login > .box > .ts.button {
-      border: none; }
+      margin-top: 10px;
+      border: none;
+      background: rgba(0, 0, 0, 0.4); }
       #login > .box > .ts.button:hover {
-        border-radius: 500em; }
+        background: rgba(0, 0, 0, 0.6); }
+      #login > .box > .ts.button:active {
+        background: rgba(0, 0, 0, 0.8); }
