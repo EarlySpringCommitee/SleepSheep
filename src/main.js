@@ -1,7 +1,17 @@
 import Vue from 'vue'
-import App from './App.vue'
+import VueRouter from "vue-router";
+import index from './components/App.vue';
+import login from './components/login.vue';
 
-new Vue({
-  el: '#app',
-  render: h => h(App)
+Vue.use(VueRouter)
+
+const router = new VueRouter({
+    mode: 'history',
+    base: __dirname,
+    routes: [
+        { path: '/', component: index },
+        { path: '/login', component: login },
+    ]
 })
+
+new Vue({ router }).$mount('#app')
