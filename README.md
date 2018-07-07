@@ -1,6 +1,6 @@
 # sleepysheep
 
-> 出現ㄌ，一個管理尼手上所有下載器的便利工具 
+>  
 
 ## Build Setup
 
