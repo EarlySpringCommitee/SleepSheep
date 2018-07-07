@@ -1,0 +1,17 @@
+doctype html
+html
+    head
+        include _header.pug
+    body
+        #login
+            h1.ts.inverted.center.aligned.header SleepySheep
+                .sub.header - 登入 -
+            .box
+                .ts.basic.underlined.fluid.input
+                    input(type='text',placeholder='伺服器')
+                .ts.basic.underlined.fluid.input
+                    input(type='text',placeholder='帳號')
+                .ts.basic.underlined.fluid.input
+                    input(type='password',placeholder='密碼')
+                .ts.hidden.divider
+                .ts.fluid.primary.button 登入

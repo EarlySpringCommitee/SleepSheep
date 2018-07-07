@@ -1,0 +1,21 @@
+#login {
+  background: #481c8f;
+  width: 100vw;
+  height: 100vh;
+  display: table-cell;
+  vertical-align: middle; }
+  #login > .box {
+    background: #FFF4;
+    color: #FFF;
+    margin: auto;
+    max-width: 350px;
+    padding: 8px;
+    border-radius: 5px; }
+    #login > .box > .ts.input {
+      margin: 6px 0; }
+      #login > .box > .ts.input > input {
+        color: #FFF; }
+    #login > .box > .ts.button {
+      border: none; }
+      #login > .box > .ts.button:hover {
+        border-radius: 500em; }
